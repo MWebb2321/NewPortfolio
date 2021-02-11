@@ -1,0 +1,73 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: left;
+  text-align: left;
+  word-break: break-word;
+  padding: 12px;
+}
+
+body {
+  font-size: 18px;
+  line-height: 27px;
+  background-image: url(https://www.designbolts.com/wp-content/uploads/2013/02/Texture-Tasty-Grey-Seamless-Pattern-For-Website-Background.jpg);
+}
+
+h1 {
+  color: #000000;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.container-xl {
+  margin-bottom: 20px;
+}
+
+.container {
+  min-width: 200px;
+  background-color: white;
+  margin-right: 100px;
+}
+
+.grid-container {
+  display: grid;
+  grid-column-gap: 10px;
+  grid-gap: 10px;
+  grid-row: 4;
+  justify-content: center;
+}
+
+.grid-item {
+  grid-column: 2;
+}
+
+#bio-main {
+  float: left;
+  background-color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#bio-image {
+  float: left;
+  max-height: 200px;
+  border: none;
+}
+
+#bio-text {
+  text-indent: 30px;
+}
+
+#portfolio {
+  float: left;
+  background-color: white;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
