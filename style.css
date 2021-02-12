@@ -54,13 +54,27 @@ h1 {
   margin-top: 20px;
 }
 
-#bio-image {
+.bio-image {
   float: left;
-  max-height: 200px;
+  height: 300px;
+  width: 300px;
   border: none;
+  padding: 15px;
 }
 
 #bio-text {
+  text-indent: 30px;
+}
+
+.bio-image2 {
+  float: right;
+  height: 300px;
+  width: 300px;
+  border: none;
+  padding: 15px;
+}
+
+#bio-text2 {
   text-indent: 30px;
 }
 
