@@ -83,6 +83,17 @@ h1 {
 #bio-text2 {
   text-indent: 30px;
 }
+.bio-image3 {
+  float: left;
+  height: 300px;
+  width: 300px;
+  border: none;
+  padding: 15px;
+}
+
+#bio-text3 {
+  text-indent: 30px;
+}
 
 #portfolio {
   float: left;
