@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Group Project 1",
+        "image":
+            "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "This was our first group project, in which we made a useful resource for new coders. We wanted to create an all-in-one site for the basics of coding.",
+        "link": "https://github.com/MWebb2321/teamAwesome"
+    },
+    {
+        "id": 2,
+        "name": "Daily Calendar",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "The assignment was to build a Daily Calendar. During the hours shown, colors will signify future, current, and past times.",
+        "link": "https://github.com/MWebb2321/Calendar"
+    },
+    {
+        "id": 3,
+        "name": "Quiz Time",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "The assignment was to build a quiz. There are only 10 questions, but I need to figure out how to end the quiz and tally a score.",
+        "link": "https://github.com/MWebb2321/Quiz-TIme"
+    },
+    {
+        "id": 4,
+        "name": "Weather App",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "The assignment was to build a Weather App. Input your city and you'll be able to find out the current and upcoming weather.",
+        "link": "https://github.com/MWebb2321/WeatherApp"
+    },
+    {
+        "id": 5,
+        "name": "Password Generator",
+        "image":
+          "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "The assignment was to build a password generator. Input the requirements you would like for you password.",
+        "link": "https://github.com/MWebb2321/PassGen.github.io"
+    }
+  ]
+  
