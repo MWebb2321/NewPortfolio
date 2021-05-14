@@ -1,4 +1,4 @@
-import projects from "../components/ProjectCard.json";
+import projects from "../Projects.json";
 import Card from "../components/Card.js";
 
 function Portfolio() {
@@ -10,12 +10,12 @@ function Portfolio() {
 
       <hr className="solid" />
 
-      <section className="portfolioImage">
-        <section className="row">
+      <section className="portfolioImage port-container">
+        <div className="row projectbox">
           {projects.map((project) => (
             <Card project={project} key={project.id} />
           ))}
-        </section>
+        </div>
       </section>
     </section>
   );
